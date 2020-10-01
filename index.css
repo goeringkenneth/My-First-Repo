@@ -55,9 +55,18 @@ head{
     color:#f4fbfd;
     background-color: #012641;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  
-    
+
   }
+
+  a:link{
+    color:#f4fbfd;
+    }
+
+  a:visited{
+    color:#f4fbfd;
+  }
+
+  
 
   .contactInfo{
     float:left;
