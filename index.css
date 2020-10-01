@@ -1,0 +1,76 @@
+
+head{
+
+  background-color:#012641;
+}
+
+
+.pic{
+    float:left;
+    border-radius: 5%; 
+    margin-bottom: 30px;
+  
+  }
+
+.pageName, h1{
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+  color: #f4fbfd;
+  background-color: #012641;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+
+.fullName{
+  color: #f4fbfd;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top:100px;
+}
+
+
+  .info{
+    float:left;
+    overflow:none;
+    width: 300px;
+    height: 260px;
+    padding: 15px;
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color:#012641;
+    background-color:#f4fbfd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .contact{
+    float: right;
+    padding: 10px;
+    width: 320px;
+    height: 270px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color:#012641;
+    background-color: #f4fbfd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    
+  }
+
+  .contactInfo{
+    float:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+  }
+
+  body{
+    background-color:#60b3d1;
+  }
+
+  .footer{
+    clear:both;
+    height:50px;
+    background-color: #012641;
+  }
